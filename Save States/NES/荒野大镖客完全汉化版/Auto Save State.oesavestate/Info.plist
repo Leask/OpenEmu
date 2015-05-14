@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Core Identifier</key>
+	<string>org.openemu.Nestopia</string>
+	<key>Core Version</key>
+	<string>1.42.4</string>
+	<key>Name</key>
+	<string>OESpecialState_auto</string>
+	<key>ROM MD5</key>
+	<string>bd10903cf228203338adb8a20de841f2</string>
+	<key>Timestamp</key>
+	<date>2015-05-12T19:39:19Z</date>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
