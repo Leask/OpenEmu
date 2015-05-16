@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Core Identifier</key>
+	<string>org.openemu.SNES9x</string>
+	<key>Core Version</key>
+	<string>1.53.3</string>
+	<key>Name</key>
+	<string>OESpecialState_auto</string>
+	<key>ROM MD5</key>
+	<string>8248ab7389d3d1d002cdfc9961c8d923</string>
+	<key>Timestamp</key>
+	<date>2015-05-15T18:17:26Z</date>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
