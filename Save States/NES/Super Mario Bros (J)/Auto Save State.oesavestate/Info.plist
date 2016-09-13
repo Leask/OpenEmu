@@ -5,13 +5,13 @@
 	<key>Core Identifier</key>
 	<string>org.openemu.Nestopia</string>
 	<key>Core Version</key>
-	<string>1.42.4</string>
+	<string>1.42.5</string>
 	<key>Name</key>
 	<string>OESpecialState_auto</string>
 	<key>ROM MD5</key>
 	<string>ba39dde63ab209b1bc751e0535e72b18</string>
 	<key>Timestamp</key>
-	<date>2015-05-15T16:20:07Z</date>
+	<date>2016-04-06T08:18:52Z</date>
 	<key>Version</key>
 	<string>1.0</string>
 </dict>
