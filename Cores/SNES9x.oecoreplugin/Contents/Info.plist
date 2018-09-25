@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17B48</string>
+	<string>17F77</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
@@ -25,21 +25,21 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.55</string>
+	<string>1.56.2</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9B55</string>
+	<string>9F2000</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>17B41</string>
+	<string>17E189</string>
 	<key>DTSDKName</key>
 	<string>macosx10.13</string>
 	<key>DTXcode</key>
-	<string>0910</string>
+	<string>0941</string>
 	<key>DTXcodeBuild</key>
-	<string>9B55</string>
+	<string>9F2000</string>
 	<key>NSPrincipalClass</key>
 	<string>OEGameCoreController</string>
 	<key>OEGameCoreClass</key>
@@ -48,6 +48,8 @@
 	<dict>
 		<key>openemu.system.snes</key>
 		<dict>
+			<key>OEGameCoreRequiresFiles</key>
+			<true/>
 			<key>OEGameCoreRewindBufferSeconds</key>
 			<integer>60</integer>
 			<key>OEGameCoreRewindInterval</key>
@@ -56,6 +58,33 @@
 			<true/>
 			<key>OEGameCoreSupportsRewinding</key>
 			<true/>
+			<key>OERequiredFiles</key>
+			<array>
+				<dict>
+					<key>Description</key>
+					<string>Satellaview BS-X BIOS</string>
+					<key>MD5</key>
+					<string>FED4D8242CFBED61343D53D48432ACED</string>
+					<key>Name</key>
+					<string>BS-X.bin</string>
+					<key>Optional</key>
+					<true/>
+					<key>Size</key>
+					<integer>1048576</integer>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>BS-X BIOS (English) [No DRM] [2016 v1.3]</string>
+					<key>MD5</key>
+					<string>96CF17BF589FCBFA6F8DE2DC84F19FA2</string>
+					<key>Name</key>
+					<string>BS-X BIOS (English) [No DRM] [2016 v1.3].sfc</string>
+					<key>Optional</key>
+					<true/>
+					<key>Size</key>
+					<integer>1048576</integer>
+				</dict>
+			</array>
 		</dict>
 	</dict>
 	<key>OEGameCorePlayerCount</key>
